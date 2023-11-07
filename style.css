@@ -1,0 +1,70 @@
+body{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    color: white;
+    font-family: Rubik;
+    background-color: #161748;
+}
+
+form{
+    text-align: center;
+    
+}
+
+.from{
+    display: block;
+    font-size:11px;
+    padding:4px 2px;
+    border:solid 1px #f9c5bd;
+    border-radius: 25px;
+    width:100px;
+    margin:2px 0 20px 10px;
+    text-align: center;
+}
+
+.to{
+    display: block;
+    font-size:11px;
+    padding:4px 2px;
+    border:solid 1px #f9c5bd;
+    border-radius: 25px;
+    width:100px;
+    margin:2px 0 20px 10px;
+}
+
+.amount{
+    display: block;
+    font-size:11px;
+    padding:4px 2px;
+    border:solid 1px #f9c5bd;
+    border-radius: 25px;
+    width:300px;
+    margin:2px 0 20px 10px; 
+    padding-top: 1%;
+}
+.in{
+    border:solid 1px #f9c5bd;
+    border-radius: 25px;
+}
+.button{
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: light;
+    color: white;
+    background-color: #eacbd1;
+
+    border-radius: 0.75rem;
+  }
+
+  select{
+    border-radius: 0.55rem; 
+    color: white;
+    background-color: #161748;
+    border: 0cm;
+  }
+
+  .select-to{
+    margin-left: 12%;
+  }
