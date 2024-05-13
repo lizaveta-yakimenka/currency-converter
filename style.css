@@ -7,9 +7,13 @@ body{
     background-color: #161748;
 }
 
+h1{
+    font-weight: 900;
+}
+
 form{
     text-align: center;
-    
+    align-items: center;
 }
 
 .from{
@@ -18,7 +22,7 @@ form{
     padding:4px 2px;
     border:solid 1px #f9c5bd;
     border-radius: 25px;
-    width:100px;
+    width:200px;
     margin:2px 0 20px 10px;
     text-align: center;
 }
@@ -29,8 +33,9 @@ form{
     padding:4px 2px;
     border:solid 1px #f9c5bd;
     border-radius: 25px;
-    width:100px;
+    width:200px;
     margin:2px 0 20px 10px;
+    height: auto;
 }
 
 .amount{
@@ -39,7 +44,7 @@ form{
     padding:4px 2px;
     border:solid 1px #f9c5bd;
     border-radius: 25px;
-    width:300px;
+    width:400px;
     margin:2px 0 20px 10px; 
     padding-top: 1%;
 }
@@ -66,5 +71,5 @@ form{
   }
 
   .select-to{
-    margin-left: 12%;
+    margin-left: 3%;
   }
